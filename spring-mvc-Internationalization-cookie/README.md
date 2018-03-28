@@ -1,0 +1,1 @@
+这是spring mvc国际化项目示例，使用cookie实现

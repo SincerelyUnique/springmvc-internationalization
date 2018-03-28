@@ -1,0 +1,1 @@
+这是spring mvc国际化示例，通过httpsession实现
